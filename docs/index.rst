@@ -1,4 +1,4 @@
-VOC
+BeeKeeper
 ===
 
 .. image:: _static/logo.png
