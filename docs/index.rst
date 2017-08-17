@@ -1,5 +1,5 @@
 BeeKeeper
-===
+=========
 
 .. image:: _static/logo.png
     :target: https://pybee.org/project/projects/tools/beekeeper/
